@@ -1,0 +1,26 @@
+c:\users\andre.saraujo\documents\visual studio 2015\Projects\Caminho-minimo\Caminho-minimo\bin\Debug\Caminho-minimo.exe.config
+c:\users\andre.saraujo\documents\visual studio 2015\Projects\Caminho-minimo\Caminho-minimo\bin\Debug\Caminho-minimo.exe
+c:\users\andre.saraujo\documents\visual studio 2015\Projects\Caminho-minimo\Caminho-minimo\bin\Debug\Caminho-minimo.pdb
+c:\users\andre.saraujo\documents\visual studio 2015\Projects\Caminho-minimo\Caminho-minimo\obj\Debug\Caminho-minimo.csprojResolveAssemblyReference.cache
+c:\users\andre.saraujo\documents\visual studio 2015\Projects\Caminho-minimo\Caminho-minimo\obj\Debug\Caminho-minimo.exe
+c:\users\andre.saraujo\documents\visual studio 2015\Projects\Caminho-minimo\Caminho-minimo\obj\Debug\Caminho-minimo.pdb
+E:\Dados\Projetos\dotnet-pessoal\Caminho-minimo\Caminho-minimo\bin\Debug\Caminho-minimo.exe.config
+E:\Dados\Projetos\dotnet-pessoal\Caminho-minimo\Caminho-minimo\obj\Debug\Caminho-minimo.exe
+E:\Dados\Projetos\dotnet-pessoal\Caminho-minimo\Caminho-minimo\obj\Debug\Caminho-minimo.pdb
+E:\Dados\Projetos\dotnet-pessoal\Caminho-minimo\Caminho-minimo\bin\Debug\Caminho-minimo.exe
+E:\Dados\Projetos\dotnet-pessoal\Caminho-minimo\Caminho-minimo\bin\Debug\Caminho-minimo.pdb
+E:\Dados\Projetos\dotnet-pessoal\Caminho-minimo\Caminho-minimo\obj\Debug\Caminho-minimo.csprojResolveAssemblyReference.cache
+C:\Users\tomas\Desktop\dijkstra-bellman-ford-csharp\Caminho-minimo\bin\Debug\Caminho-minimo.exe.config
+C:\Users\tomas\Desktop\dijkstra-bellman-ford-csharp\Caminho-minimo\bin\Debug\Caminho-minimo.exe
+C:\Users\tomas\Desktop\dijkstra-bellman-ford-csharp\Caminho-minimo\bin\Debug\Caminho-minimo.pdb
+C:\Users\tomas\Desktop\dijkstra-bellman-ford-csharp\Caminho-minimo\obj\Debug\Caminho-minimo.csproj.AssemblyReference.cache
+C:\Users\tomas\Desktop\dijkstra-bellman-ford-csharp\Caminho-minimo\obj\Debug\Caminho-minimo.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\dijkstra-bellman-ford-csharp\Caminho-minimo\obj\Debug\Caminho-minimo.exe
+C:\Users\tomas\Desktop\dijkstra-bellman-ford-csharp\Caminho-minimo\obj\Debug\Caminho-minimo.pdb
+C:\Users\tomas\Desktop\TrabFacul Bellmann-Ford\Caminho-minimo\bin\Debug\Caminho-minimo.exe.config
+C:\Users\tomas\Desktop\TrabFacul Bellmann-Ford\Caminho-minimo\bin\Debug\Caminho-minimo.exe
+C:\Users\tomas\Desktop\TrabFacul Bellmann-Ford\Caminho-minimo\bin\Debug\Caminho-minimo.pdb
+C:\Users\tomas\Desktop\TrabFacul Bellmann-Ford\Caminho-minimo\obj\Debug\Caminho-minimo.csproj.AssemblyReference.cache
+C:\Users\tomas\Desktop\TrabFacul Bellmann-Ford\Caminho-minimo\obj\Debug\Caminho-minimo.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\TrabFacul Bellmann-Ford\Caminho-minimo\obj\Debug\Caminho-minimo.exe
+C:\Users\tomas\Desktop\TrabFacul Bellmann-Ford\Caminho-minimo\obj\Debug\Caminho-minimo.pdb
