@@ -1,0 +1,14 @@
+C:\Users\tomas\Desktop\projeto-bellman-ford\Bellman-Ford\Bellman-Ford\bin\Debug\netcoreapp3.1\Bellman-Ford.exe
+C:\Users\tomas\Desktop\projeto-bellman-ford\Bellman-Ford\Bellman-Ford\bin\Debug\netcoreapp3.1\Bellman-Ford.deps.json
+C:\Users\tomas\Desktop\projeto-bellman-ford\Bellman-Ford\Bellman-Ford\bin\Debug\netcoreapp3.1\Bellman-Ford.runtimeconfig.json
+C:\Users\tomas\Desktop\projeto-bellman-ford\Bellman-Ford\Bellman-Ford\bin\Debug\netcoreapp3.1\Bellman-Ford.runtimeconfig.dev.json
+C:\Users\tomas\Desktop\projeto-bellman-ford\Bellman-Ford\Bellman-Ford\bin\Debug\netcoreapp3.1\Bellman-Ford.dll
+C:\Users\tomas\Desktop\projeto-bellman-ford\Bellman-Ford\Bellman-Ford\bin\Debug\netcoreapp3.1\Bellman-Ford.pdb
+C:\Users\tomas\Desktop\projeto-bellman-ford\Bellman-Ford\Bellman-Ford\obj\Debug\netcoreapp3.1\Bellman-Ford.csproj.AssemblyReference.cache
+C:\Users\tomas\Desktop\projeto-bellman-ford\Bellman-Ford\Bellman-Ford\obj\Debug\netcoreapp3.1\Bellman-Ford.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\projeto-bellman-ford\Bellman-Ford\Bellman-Ford\obj\Debug\netcoreapp3.1\Bellman-Ford.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\projeto-bellman-ford\Bellman-Ford\Bellman-Ford\obj\Debug\netcoreapp3.1\Bellman-Ford.AssemblyInfo.cs
+C:\Users\tomas\Desktop\projeto-bellman-ford\Bellman-Ford\Bellman-Ford\obj\Debug\netcoreapp3.1\Bellman-Ford.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\projeto-bellman-ford\Bellman-Ford\Bellman-Ford\obj\Debug\netcoreapp3.1\Bellman-Ford.dll
+C:\Users\tomas\Desktop\projeto-bellman-ford\Bellman-Ford\Bellman-Ford\obj\Debug\netcoreapp3.1\Bellman-Ford.pdb
+C:\Users\tomas\Desktop\projeto-bellman-ford\Bellman-Ford\Bellman-Ford\obj\Debug\netcoreapp3.1\Bellman-Ford.genruntimeconfig.cache
